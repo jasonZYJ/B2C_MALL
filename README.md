@@ -26,8 +26,6 @@ $git tag
 $git checkout 01
 ```
 
-[蛋人网](https://eggman.tv) EGGMAN.TV
-
 # 项目介绍
 该项目主要是我们自己开发的用于教学目的一个开源项目，项目基于Rails 5，实现的功能就是传统的B2C电商平台中常用的功能，包括:
 
